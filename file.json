@@ -1,0 +1,42 @@
+[
+  {
+    "identificatorId": "78531209",
+    "dataItem": {
+      "objectId": "0987453244",
+      "effectimeFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2020-11-07T00:25:00.073876Z",
+      "quality": "good",
+      "hobby": "swimming",
+      "job": "engineer"
+    },
+    "info": {
+      "size": "l",
+      "children": "two",
+      "currentAt": "2023-10-07T00:25:00.073876Z",
+      "CurrentFrom": "2018-12-07T00:25:00.073876Z",
+      "type": "man",
+      "UniqueSymbol": "biceps",
+      "Voice": "bass"
+    }
+  },
+  {
+    "identificatorId": "45610098",
+    "dataItem": {
+      "objectId": "2346589801",
+      "effectimeFrom": "2010-11-04T00:25:00.073876Z",
+      "effectiveTo": "2018-10-04T00:25:00.073876Z",
+      "quality": "good",
+      "hobby": "running",
+      "job": "manager"
+    },
+    "info": {
+      "size": "s",
+      "children": "two",
+      "currentAt": "2005-11-07T00:25:00.073876Z",
+      "CurrentFrom": "2000-11-07T00:25:00.073876Z",
+      "type": "woman",
+      "UniqueSymbol": "manicure",
+      "Voice": "soprano"
+    }
+  }
+]
